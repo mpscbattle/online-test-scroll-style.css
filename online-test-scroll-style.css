@@ -138,7 +138,8 @@ body {
 }
 
 .options .option {
-    font-size: 18px;
+    font-size: 17px;
+    color: #1a1a1a;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #cccccc;
@@ -241,6 +242,7 @@ body {
 
 .analysis-box .option { 
     font-size: 16px;
+    color: #1a1a1a;
     padding: 8px; 
     margin: 8px 0; 
     border: 1px solid #ccc;
@@ -252,7 +254,7 @@ body {
     padding: 10px;
     margin: 10px 0;
     font-size: 16px;
-    color: #000000;
+    color: #1a1a1a;
     border-left: 4px solid #ff9933;
     border-radius: 2px;
 }
